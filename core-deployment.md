@@ -15,7 +15,7 @@ In this hands-on session, we will set up the environment to deploy a 5G core net
     2. **Network Tools**: Set up Open vSwitch (OVS) and Multus for enhanced connectivity and multi-interface support for network slicing.
     3. **Configure OVS-CNI**: Integrate OVS Container Network Interface (CNI) for streamlined communication within Kubernetes, supporting our network slicing framework.
 
-By the end of this setup, participants will have a fully functional environment for 5G core deployment. For exercises, see the [labs](https://github.com/niloysh/testbed-automator/labs).
+By the end of this setup, participants will have a fully functional environment for 5G core deployment. For exercises, see the [labs](https://github.com/niloysh/testbed-automator/blob/main/labs/lab1/lab1.md).
 
 > [!NOTE] 
 > For an overview of relevant technologies, see [technologies](technologies.md).
@@ -28,4 +28,4 @@ Using [open5gs-k8s](https://github.com/niloysh/open5gs-k8s), we will:
 2. **Simulate a RAN and UEs**: Deploy UERANSIM for RAN and user equipment simulation.
 3. **Subscriber Testing**: Add two subscribers (one per slice) and conduct a ping test.
 
-After deployment, exercises are available in the [labs](https://github.com/niloysh/open5gs-k8s/labs).
+After deployment, exercises are available in the [labs](https://github.com/niloysh/open5gs-k8s/blob/main/labs/lab1/lab1.md).

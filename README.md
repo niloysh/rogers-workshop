@@ -21,6 +21,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
   - [Workshop Agenda](#workshop-agenda)
     - [Day 1: 19th November](#day-1-19th-november-2)
     - [Day 2: 20th November](#day-2-20th-november-2)
+  - [Background Reading](#background-reading)
 
 
 
@@ -28,12 +29,12 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
 
 ### Day 1: 19th November
 
-| **Session**                  | **Time**            | **Notes**                                                          |
-| ---------------------------- | ------------------- | ------------------------------------------------------------------ |
-| Introduction                 | 9:00 AM - 9:45 AM   | [Slides]()                                                         |
-| Deploy 5G core on Kubernetes | 10:00 AM - 12:00 PM | [Companion Document](https://github.com/niloysh/testbed-automator) |
-| Lunch Break                  | 12:00 PM - 1:30 PM  | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))   |
-| Monitoring network slices    | 1:30 PM - 4:00 PM   | [Companion Document](https://github.com/niloysh/5g-monarch)        |
+| **Session**                  | **Time**            | **Notes**                                                                                                                                                                                                                                |
+| ---------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Introduction                 | 9:00 AM - 9:45 AM   | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EWk_7MFU9pFJrVZkGdB-UioBMucyLwG3qi9S5FWbJesQug?e=dSHQqL)                                                                                               |
+| Deploy 5G core on Kubernetes | 10:00 AM - 12:00 PM | - [Companion Document 1](https://github.com/niloysh/testbed-automator) <br> - [Companion Document 2]([<link_to_document_2>](https://github.com/niloysh/open5gs-k8s))                                                                     |
+| Lunch Break                  | 12:00 PM - 1:30 PM  | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                         |
+| Monitoring network slices    | 1:30 PM - 4:00 PM   | - [Slides]([<link_to_your_slides>](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq)) <br> - [Companion Document](https://github.com/niloysh/5g-monarch) |
 
 ### Day 2: 20th November
 
@@ -131,6 +132,8 @@ For participants who want to replicate the environment on their own device:
 
 4. **Building and Training a Slice Model**  
    Gather a 5G dataset and use machine learning to train a model for predictive slice management.
+
+## Background Reading
 
 For more background, see these supporting resources:
 - **[Introduction to 5G Core](intro-to-5g-core.md)**

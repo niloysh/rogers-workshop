@@ -1,69 +1,81 @@
-# Rogers Workshop
+# Rogers Executive Workshop
 
-Welcome to the first Rogers Workshop, presented as part of the UW Chair in Network Automation!
+Welcome to the first Rogers Executive Workshop, presented as part of the UW Chair in Network Automation!
 
-This two-day workshop, held on November 19th and 20th, will explore essential aspects of 5G technology, including 5G core deployment, network slicing, slice monitoring, and dynamic resource scaling.
+This two-day workshop, held on November 19 and 20, will explore essential aspects of 5G technology, including 5G core deployment, network slicing, slice monitoring, and dynamic resource scaling.
 
 ## Table of Contents
 
-- [Rogers Workshop](#rogers-workshop)
+- [Rogers Executive Workshop](#rogers-executive-workshop)
   - [Table of Contents](#table-of-contents)
   - [Workshop Schedule](#workshop-schedule)
-    - [Day 1: 19th November](#day-1-19th-november)
-    - [Day 2: 20th November](#day-2-20th-november)
+    - [November 19](#november-19)
+    - [November 20](#november-20)
   - [Learning Outcomes](#learning-outcomes)
-    - [Day 1: 19th November](#day-1-19th-november-1)
-    - [Day 2: 20th November](#day-2-20th-november-1)
+    - [November 19](#november-19-1)
+    - [November 20](#november-20-1)
   - [Hardware](#hardware)
     - [VM Specifications](#vm-specifications)
-    - [SSH Access to the VM](#ssh-access-to-the-vm)
+    - [Accessing Your Workshop VM](#accessing-your-workshop-vm)
+      - [1. Retrieve Your Login Credentials](#1-retrieve-your-login-credentials)
+      - [2. Launching the Workshop VM](#2-launching-the-workshop-vm)
+      - [3.	Ubuntu Desktop Environment](#3ubuntu-desktop-environment)
     - [Local Setup (Optional)](#local-setup-optional)
   - [Workshop Agenda](#workshop-agenda)
-    - [Day 1: 19th November](#day-1-19th-november-2)
-    - [Day 2: 20th November](#day-2-20th-november-2)
+    - [November 19](#november-19-2)
+    - [November 20](#november-20-2)
   - [Background Reading](#background-reading)
 
 
 
 ## Workshop Schedule
 
-### Day 1: 19th November
+### November 19
 
-| **Session**                  | **Time**            | **Notes**                                                                                                                                                                                                                                                      |
-| ---------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Introduction                 | 9:00 AM - 9:45 AM   | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EWk_7MFU9pFJrVZkGdB-UioBMucyLwG3qi9S5FWbJesQug?e=dSHQqL)                                                                                                                     |
-| Deploy 5G core on Kubernetes | 10:00 AM - 12:00 PM | - [Session Overview](core-deployment.md) <br> - [Companion Document 1](https://github.com/niloysh/testbed-automator) <br> - [Companion Document 2](https://github.com/niloysh/open5gs-k8s)                                                                     |
-| Lunch Break                  | 12:00 PM - 1:30 PM  | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                                               |
-| Monitoring network slices    | 1:30 PM - 4:00 PM   | - [Session Overview](slice-monitoring.md) <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq) <br> - [Companion Document](https://github.com/niloysh/5g-monarch) |
+| **Time**            | **Session**                           | **Notes**                                                                                                                                                                                                                                                      |
+| ------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00 AM - 9:45 AM   | Workshop Introduction                 | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EWk_7MFU9pFJrVZkGdB-UioBMucyLwG3qi9S5FWbJesQug?e=dSHQqL)                                                                                                                     |
+| 10:00 AM - 11:00 AM | Deploy 5G core on Kubernetes          | - [Session Overview](core-deployment.md) <br> - [Companion Document 1](https://github.com/niloysh/testbed-automator) <br> - [Companion Document 2](https://github.com/niloysh/open5gs-k8s)                                                                     |
+| 11:00 AM - 11:15 AM | Coffee Break                          |                                                                                                                                                                                                                                                                |
+| 11:15 AM - 12:00 PM | Deploy 5G core on Kubernetes (cont'd) | [Exercises](https://github.com/niloysh/open5gs-k8s/blob/main/labs/lab1/lab1.md)                                                                                                                                                                                |
+| 12:00 PM - 1:30 PM  | Lunch Break                           | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                                               |
+| 1:30 PM - 2:00 PM   | Demo Session                          | Location: DC2554 ([Map](https://maps.app.goo.gl/TL3auogCjkvPy2J37))                                                                                                                                                                                            |
+| 2:00 PM - 3:00 PM   | Monitoring network slices             | - [Session Overview](slice-monitoring.md) <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq) <br> - [Companion Document](https://github.com/niloysh/5g-monarch) |
+| 3:00 PM - 3:15 PM   | Coffee Break                          |                                                                                                                                                                                                                                                                |
+| 3:15 PM - 4:00 PM   | Monitoring network slices (cont'd)    | [Exercises](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md)                                                                                                                                                                                      |
 
-### Day 2: 20th November
+### November 20
 
-| **Session**                      | **Time**              | **Notes**                                                        |
-| -------------------------------- | --------------------- | ---------------------------------------------------------------- |
-| Ingestion and parsing of 5G data | 9:00 AM - 12:00 PM AM |                                                                  |
-| Lunch Break                      | 12:00 PM - 1:30 PM    | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA)) |
-| Slice resource allocation        | 1:30 PM - 4:00 PM     |                                                                  |
+| **Time**            | **Session**                               | **Notes**                                                        |
+| ------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
+| 9:00 AM - 10:30 AM  | Ingestion and parsing of 5G data          |                                                                  |
+| 10:30 AM - 10:45 AM | Coffee Break                              |                                                                  |
+| 10:45 AM - 12:00 PM | Ingestion and parsing of 5G data (cont'd) |                                                                  |
+| 12:00 PM - 1:30 PM  | Lunch Break                               | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA)) |
+| 1:30 PM - 2:45 PM   | Slice resource allocation                 |                                                                  |
+| 2:45 PM - 3:00 PM   | Coffee Break                              |                                                                  |
+| 3:00 PM - 4:00 PM   | Slice resource allocation (cont'd)        |                                                                  |  |  |
 
 
 ## Learning Outcomes
 
-### Day 1: 19th November
+### November 19
 
-1. Deploy and configure a 5G network on Kubernetes.
-2. Create and manage network slices.
-3. Simulate a 5G RAN and send traffic through network slices.
-4. Monitor network slices and collecting telemetry data in a 5G environment.
+1.	Learn how to deploy and configure a 5G core network on Kubernetes.
+2.	Experiment with creating and managing network slices.
+3.	Simulate 5G RAN and send traffic through various network slices.
+4.	Monitor network slices and collect telemetry data in a 5G environment.
 
-### Day 2: 20th November
-1. Explore data processing pipeline technologies.
-2. Hands-on with Kibana and Spark.
-3. Introduction to dynamic resource scaling.
-4. Collect datasets from the 5G environment and apply machine learning techniques for dynamic resource scaling.
+### November 20
+1.	Explore data processing pipeline technologies for 5G telemetry.
+2.	Gain hands-on experience with data visualization and analysis tools like Kibana and Spark.
+3.	Understand the fundamentals of dynamic resource scaling in network environments.
+4.	Collect datasets from the 5G environment and apply machine learning techniques for adaptive resource scaling.
 
 
 ## Hardware
 
-Each participant will receive a virtual machine (VM) hosted in **MC3027**, pre-configured for the workshop.
+Each participant will receive a virtual machine (VM) hosted in **MC2061**, pre-configured for the workshop.
 
 [Map to MC](https://maps.app.goo.gl/2jaXV5coMXUh37SJ8)
 
@@ -73,28 +85,21 @@ Each participant will receive a virtual machine (VM) hosted in **MC3027**, pre-c
 | ------- | ---------- | ----------- | ---------------- |
 | 8 vCPUs | 16GB RAM   | 50GB        | Ubuntu 22.04 LTS |
 
-### SSH Access to the VM
+### Accessing Your Workshop VM
 
-Each participant will access their virtual machine (VM) via SSH. Please follow the instructions below to connect:
+Participants will be seated at workstations in room **MC2061**, where each machine will have an individual login. 
 
-1. **Retrieve VM IP and Credentials**  
-   - Your VM’s IP address and login credentials will be provided at the start of the workshop. Ensure you have these details ready.
+> [!NOTE]
+> Please choose a machine at the start and remain at the same workstation for all sessions.
 
-2. **Connecting via SSH**  
-   - **Linux/macOS Users**:  
-     Open a terminal and use the following command:
-     ```bash
-     ssh username@your_vm_ip
-     ```
+#### 1. Retrieve Your Login Credentials
+You will receive a card with login credentials for your workstation at the start of the workshop. Please keep these details secure.
+#### 2. Launching the Workshop VM
+Once logged in, use the provided script on your desktop to start the workshop VM. This VM is pre-configured with all necessary tools and resources for the sessions.
+#### 3.	Ubuntu Desktop Environment
+The workshop VM features Ubuntu 22.04 LTS with a Desktop GUI, where all tasks and exercises will take place.
 
-3. **SSH Key Setup (Optional)**  
-   - For a more secure and convenient connection, you can set up SSH keys. Run the following commands to generate a key pair and add it to your VM:
-     ```bash
-     ssh-keygen -t rsa -b 2048
-     ssh-copy-id username@your_vm_ip
-     ```
-   - Once configured, you can log in without a password.
-
+If you have any issues logging in or launching the VM, workshop assistants will be available to help.
 
 
 ### Local Setup (Optional)
@@ -111,7 +116,7 @@ For participants who want to replicate the environment on their own device:
 
 ## Workshop Agenda
 
-### Day 1: 19th November
+### November 19
 
 1. **[Deploy 5G Core with Network Slicing](core-deployment.md)**  
    Set up and deploy a 5G core network on Kubernetes, configure network slices, and simulate user equipment for traffic testing.
@@ -119,7 +124,7 @@ For participants who want to replicate the environment on their own device:
 2. **[Monitoring Network Slices](slice-monitoring.md)**  
    Configure monitoring tools for network slice telemetry, set up dashboards, and analyze slice performance metrics in real-time.
 
-### Day 2: 20th November
+### November 20
 
 1. **Introduction to Data Processing Pipelines**  
    Overview of data pipeline technologies, focusing on handling large-scale 5G telemetry data.

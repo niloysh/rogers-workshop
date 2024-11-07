@@ -132,11 +132,11 @@ For participants who want to replicate the environment on their own device:
 2. **Hands-on with Kibana and Spark**  
    Explore data visualization with Kibana and data processing with Spark to analyze and manage slice data.
 
-3. **Dynamic Resource Scaling**  
-   Implement dynamic scaling for slice resources based on network demand and load.
+3. **[Slice modeling using vNetRunner](dynamic-resource-scaling.md)**  
+   Use the vNetRunner framework to train VNF models and compose them to form end-to-end slice models.
 
-4. **Building and Training a Slice Model**  
-   Gather a 5G dataset and use machine learning to train a model for predictive slice management.
+4. **[Dynamic Resource Scaling using MicroOpt](dynamic-resource-scaling.md)**  
+   Use the MicroOpt framework to perform dynamic resource scaling for network slices.
 
 ## Background Reading
 
@@ -144,3 +144,4 @@ For more background, see these supporting resources:
 - **[Introduction to 5G Core](intro-to-5g-core.md)**
 - **[Technologies Overview](technologies.md)**
 - **[Network Slicing](network-slicing.md)**
+- **[Introduction to Dynamic Resource Scaling](intro-to-drs.md)**

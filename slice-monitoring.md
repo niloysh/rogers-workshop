@@ -1,6 +1,13 @@
 ## **Monitoring Network Slices**  
 **Time:** November 19th, 1:30 PM - 4:00 PM  
 
+Welcome to the second session of the Rogers Executive Workshop!
+In this session, we will look at monitoring network slices with **5G-Monarch**.
+
+![monarch-conceptual-architecture](images/monarch-conceptual-architecture.png)
+
+The figure above shows the conceptual architecture of Monarch. Monarch is designed for cloud-native 5G deployments and focuses on network slice monitoring and per-slice KPI computation.
+
 ### **1. Setting Up Monitoring Tools**
 
 In this session, we will use [5g-monarch](https://github.com/niloysh/5g-monarch) to monitor 5G network slices and collect real-time telemetry data.

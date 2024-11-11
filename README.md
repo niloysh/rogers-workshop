@@ -61,10 +61,10 @@ This two-day workshop, held on November 19 and 20, will explore essential aspect
 
 ### November 19
 
-1.	Learn how to deploy and configure a 5G core network on Kubernetes.
-2.	Experiment with creating and managing network slices.
-3.	Simulate 5G RAN and send traffic through various network slices.
-4.	Monitor network slices and collect telemetry data in a 5G environment.
+1.	Understand the deployment and configuration of a 5G core network on Kubernetes.
+2.	Gain hands-on experience in creating, configuring, and managing 5G network slices.
+3.	Learn to configure and deploy a monitoring architecture for network slices.
+4.	Acquire practical skills in analyzing 5G network KPIs.
 
 ### November 20
 1.	Explore data processing pipeline technologies for 5G telemetry.

@@ -68,7 +68,7 @@ This two-day workshop, held on November 19 and 20, will explore essential aspect
 
 ### November 20
 1.	Explore data processing pipeline technologies for 5G telemetry.
-2.	Gain hands-on experience with data visualization and analysis tools like Kibana and Spark.
+2.	Experiment with building and maintaining data pipelines using NiFi and Kafka.
 3.	Learn how to train 5G VNF models and compose them to form end-to-end slice models.
 4.	Leverage ML-based slice model for dynamic resource scaling.
 

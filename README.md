@@ -32,43 +32,43 @@ This two-day workshop, held on November 19 and 20, will explore essential aspect
 
 ### November 19
 
-| **Time**            | **Session**                           | **Notes**                                                                                                                                                                                                                        |
-| ------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9:00 AM - 9:45 AM   | Workshop Introduction                 | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EWk_7MFU9pFJrVZkGdB-UioBMucyLwG3qi9S5FWbJesQug?e=dSHQqL)                                                                                       |
-| 10:00 AM - 11:00 AM | Deploy 5G core on Kubernetes          | - [Session Overview](core-deployment.md) <br> - [Companion Document 1](https://github.com/niloysh/testbed-automator) <br> - [Companion Document 2](https://github.com/niloysh/open5gs-k8s)                                       |
-| 11:00 AM - 11:15 AM | Coffee Break                          |                                                                                                                                                                                                                                  |
-| 11:15 AM - 12:00 PM | Deploy 5G core on Kubernetes (cont'd) | [Exercises](https://github.com/niloysh/open5gs-k8s/blob/main/labs/lab1/lab1.md)                                                                                                                                                  |
-| 12:00 PM - 1:30 PM  | Lunch Break                           | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                 |
-| 1:30 PM - 2:00 PM   | Demo Session                          | - Location: DC2554 ([Map](https://maps.app.goo.gl/TL3auogCjkvPy2J37))          <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq) |
-| 2:00 PM - 3:00 PM   | Monitoring network slices             | - [Session Overview](slice-monitoring.md)  <br> - [Companion Document](https://github.com/niloysh/5g-monarch)                                                                                                                    |
-| 3:00 PM - 3:15 PM   | Coffee Break                          |                                                                                                                                                                                                                                  |
-| 3:15 PM - 4:00 PM   | Monitoring network slices (cont'd)    | [Exercises](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md)                                                                                                                                                        |
+| **Time**            | **Session**                           | **Notes**                                                                                                                                                                                                                                                       |
+| ------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00 AM - 9:45 AM   | Workshop Introduction                 | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EWk_7MFU9pFJrVZkGdB-UioBMucyLwG3qi9S5FWbJesQug?e=dSHQqL)                                                                                                                      |
+| 10:00 AM - 11:00 AM | Deploy 5G core on Kubernetes          | - [Session Overview](core-deployment.md) <br> - [Companion Document 1](https://github.com/niloysh/testbed-automator) <br> - [Companion Document 2](https://github.com/niloysh/open5gs-k8s)                                                                      |
+| 11:00 AM - 11:15 AM | Coffee Break                          |                                                                                                                                                                                                                                                                 |
+| 11:15 AM - 12:00 PM | Deploy 5G core on Kubernetes (cont'd) | [Exercises](https://github.com/niloysh/open5gs-k8s/blob/main/labs/lab1/lab1.md)                                                                                                                                                                                 |
+| 12:00 PM - 1:30 PM  | Lunch Break                           | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                                                |
+| 1:30 PM - 2:00 PM   | Demo Session                          | - Location: DC2554 ([Map](https://maps.app.goo.gl/TL3auogCjkvPy2J37))          <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq)                                |
+| 2:00 PM - 3:00 PM   | Monitoring network slices             | - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf) <br> - [Session Overview](slice-monitoring.md)  <br> - [Companion Document](https://github.com/niloysh/5g-monarch) |
+| 3:00 PM - 3:15 PM   | Coffee Break                          |                                                                                                                                                                                                                                                                 |
+| 3:15 PM - 4:00 PM   | Monitoring network slices (cont'd)    | [Exercises](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md)                                                                                                                                                                                       |
 
 ### November 20
 
-| **Time**            | **Session**                               | **Notes**                                                        |
-| ------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
-| 9:00 AM - 10:30 AM  | Ingestion and parsing of 5G data          |                                                                  |
-| 10:30 AM - 10:45 AM | Coffee Break                              |                                                                  |
-| 10:45 AM - 12:00 PM | Ingestion and parsing of 5G data (cont'd) |                                                                  |
-| 12:00 PM - 1:30 PM  | Lunch Break                               | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA)) |
-| 1:30 PM - 2:45 PM   | Dynamic resource scaling                  | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C) <br> [Session Overview](dynamic-resource-scaling.md) <br> [Jupyter Repo](https://github.com/sulaimanalmani/5GDynamicResourceAllocation)                                                              |
-| 2:45 PM - 3:00 PM   | Coffee Break                              |                                                                  |
-| 3:00 PM - 4:00 PM   | Dynamic resource scaling (cont'd)         |                                                                  |  |  |
+| **Time**            | **Session**                               | **Notes**                                                                                                                                                                                         |
+| ------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9:00 AM - 10:30 AM  | Ingestion and parsing of 5G data          | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO) |
+| 10:30 AM - 10:45 AM | Coffee Break                              |                                                                                                                                                                                                   |
+| 10:45 AM - 12:00 PM | Ingestion and parsing of 5G data (cont'd) |                                                                                                                                                                                                   |
+| 12:00 PM - 1:30 PM  | Lunch Break                               | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                  |
+| 1:30 PM - 2:45 PM   | Dynamic resource scaling                  | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C) <br> [Companion Document](dynamic-resource-scaling.md) |
+| 2:45 PM - 3:00 PM   | Coffee Break                              |                                                                                                                                                                                                   |
+| 3:00 PM - 4:00 PM   | Dynamic resource scaling (cont'd)         |                                                                                                                                                                                                   |  |  |
 
 
 ## Learning Outcomes
 
 ### November 19
 
-1.	Learn how to deploy and configure a 5G core network on Kubernetes.
-2.	Experiment with creating and managing network slices.
-3.	Simulate 5G RAN and send traffic through various network slices.
-4.	Monitor network slices and collect telemetry data in a 5G environment.
+1.	Understand the deployment and configuration of a 5G core network on Kubernetes.
+2.	Gain hands-on experience in creating, configuring, and managing 5G network slices.
+3.	Learn to configure and deploy a monitoring architecture for network slices.
+4.	Acquire practical skills in analyzing 5G network KPIs.
 
 ### November 20
 1.	Explore data processing pipeline technologies for 5G telemetry.
-2.	Gain hands-on experience with data visualization and analysis tools like Kibana and Spark.
+2.	Experiment with building and maintaining data pipelines using NiFi and Kafka.
 3.	Learn how to train 5G VNF models and compose them to form end-to-end slice models.
 4.	Experiment with ML-based slice model for dynamic resource scaling
 

@@ -52,7 +52,7 @@ This two-day workshop, held on November 19 and 20, will explore essential aspect
 | 10:30 AM - 10:45 AM | Coffee Break                              |                                                                                                                                                                                                   |
 | 10:45 AM - 12:00 PM | Ingestion and parsing of 5G data (cont'd) |                                                                                                                                                                                                   |
 | 12:00 PM - 1:30 PM  | Lunch Break                               | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                  |
-| 1:30 PM - 2:45 PM   | Dynamic resource scaling                  | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C) <br> [Companion Document](dynamic-resource-scaling.md) |
+| 1:30 PM - 2:45 PM   | Dynamic resource scaling                  | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C) <br> [Session Overview](dynamic-resource-scaling.md) <br> [Companion Document](https://github.com/sulaimanalmani/5GDynamicResourceAllocation) |
 | 2:45 PM - 3:00 PM   | Coffee Break                              |                                                                                                                                                                                                   |
 | 3:00 PM - 4:00 PM   | Dynamic resource scaling (cont'd)         |                                                                                                                                                                                                   |  |  |
 
@@ -70,7 +70,7 @@ This two-day workshop, held on November 19 and 20, will explore essential aspect
 1.	Explore data processing pipeline technologies for 5G telemetry.
 2.	Experiment with building and maintaining data pipelines using NiFi and Kafka.
 3.	Learn how to train 5G VNF models and compose them to form end-to-end slice models.
-4.	Leverage ML-based slice model for dynamic resource scaling.
+4.	Experiment with ML-based slice model for dynamic resource scaling
 
 
 ## Hardware

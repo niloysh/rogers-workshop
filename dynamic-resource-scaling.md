@@ -1,7 +1,12 @@
-# 5G Dynamic Resource Scaling
+# Dynamic Resource Scaling using vNetRunner and MicroOpt
+
+## Background Reading
+For a brief overview of dynamic resource scaling, please see [intro-to-drs](intro-to-drs.md).
+
+## 5G Dynamic Resource Scaling
  We will be conducting our hands-on sessions in room MC2061, which is equipped with VirtualBox and pre-loaded virtual machines (VMs) to facilitate the workshop. Once we have access to the VMs, we will be using JupyterLab for our exercises, which comes pre-installed in the provided VMs. Once you have accessed the VM, please proceed to the following repo to get started: [5GDynamicResourceAllocation](https://github.com/sulaimanalmani/5GDynamicResourceAllocation)
 
-# Conclusion and Next Steps
+## Conclusion and Next Steps
 
 Congratulations! By completing the three notebooks, you should now have a solid understanding of how to use dataset gathered from 5G network can be used for network modeling and for 5G slice management and orchestration. 
 

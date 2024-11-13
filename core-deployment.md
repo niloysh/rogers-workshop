@@ -1,15 +1,15 @@
 ## **Deploy 5G Core with Network Slicing**  
 **Time:** November 19th, 10:00 AM - 12:00 PM  
 
-Welcome to this session on 5G core deployment and network slicing! Participants will set up a complete 5G network environment on Kuberenetes using automated scripts, with a special focus on deploying Open5GS and UERANSIM for core network and RAN simulation. By the end, you'll have a functional 5G setup with configured network slices, providing hands-on experience with key 5G technologies.
+Welcome to the session on 5G core deployment and network slicing. Participants will set up a complete 5G network environment on Kuberenetes using automated scripts, with a special focus on deploying Open5GS and UERANSIM for core network and RAN simulation, respectively. By the end, you will have a functional 5G setup with configured network slices, providing hands-on experience with key 5G technologies.
 
 The figure below shows our network slicing setup with 2 network slices.
 
 ![slicing-setup](images/slicing-november-2024.png)
 
 ### **Background Reading**
-- For a brief overview of the 5G core, please see [intro-to-5g-core](intro-to-5g-core.md).
-- For background on network slicing, see the document on [network-slicing](network-slicing.md).
+- For a brief overview of the 5G core, see [intro-to-5g-core](intro-to-5g-core.md).
+- For background on network slicing, see [network-slicing](network-slicing.md).
 
 ### **1. Setting Up the Environment**  
 **Location:** MC2061 (pre-configured with VirtualBox and VMs)

@@ -27,4 +27,4 @@ We will monitor slices using the configured tools, observe performance metrics, 
 2. **Real-Time Monitoring Exercises**:
     - Track number of subscribers, CPU usage for NFs.
 
-For exercises, see the [labs](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md).
+For exercises, see the [labs](https://github.com/niloysh/5g-monarch/labs/lab1.md).

@@ -42,7 +42,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
 | 1:30 PM - 2:00 PM   | Demo Session                          | Location: DC2554 ([Map](https://maps.app.goo.gl/TL3auogCjkvPy2J37))          <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq)                                |
 | 2:00 PM - 3:00 PM   | Monitoring 5G Core Network             | - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf) <br> - [Session Overview](slice-monitoring.md)  <br> - [Companion Document](https://github.com/niloysh/5g-monarch) |
 | 3:00 PM - 3:15 PM   | Coffee Break                          |                                                                                                                                                                                                                                                                 |
-| 3:15 PM - 4:00 PM   | Monitoring 5G Core Network (cont'd)    | [Exercises](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md)                                                                                                                                                                                       |
+| 3:15 PM - 4:00 PM   | Monitoring 5G Core Network (cont'd)    | [Exercises](https://github.com/niloysh/5g-monarch/labs/lab1.md)                                                                                                                                                                                       |
 
 ### Day 2 (November 20th): Data Handling and Intelligent Algorithms
 

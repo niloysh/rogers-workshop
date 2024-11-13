@@ -1,6 +1,6 @@
 # Rogers Executive Workshop
 
-Welcome to the first Rogers Executive Workshop, presented as part of the UW Chair in Network Automation!
+Welcome to the first Rogers Executive Workshop, presented as part of the Rogers Chair in Network Automation!
 
 This two-day workshop, held on November 19 and 20, will explore essential aspects of 5G technology, including 5G core deployment, network slicing, slice monitoring, and dynamic resource scaling.
 

@@ -1,6 +1,6 @@
 theme: minima
 title: Rogers Executive Workshop
-description: Landing page for Rogers Executive Workshop
+description: The first Rogers Executive Workshop, presented as part of the Rogers Chair in Network Automation.
 
 header_pages:
   - resources.md

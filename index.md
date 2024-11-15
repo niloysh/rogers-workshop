@@ -59,7 +59,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     <tr>
       <td>3:15 PM - 4:00 PM</td>
       <td>Monitoring 5G Core Network (cont'd)</td>
-      <td><a href="https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md">Lab Exercises</a></td>
+      <td><a href="https://niloysh.github.io/5g-monarch/labs/lab1/README.pdf">Lab Exercises</a></td>
     </tr>
   </tbody>
 </table>

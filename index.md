@@ -13,14 +13,99 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
 
 ### Day 1 (November 19th): 5G Core Network and Monitoring
 
-| **Time**            | **Session**                                     | **Notes**                                                                                                                                                                                                                                                                            |
-| ------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 9:00 AM - 9:45 AM   | Workshop Introduction                           | [Slides](https://uofwaterloo-my.sharepoint.com/:p:/r/personal/n6saha_uwaterloo_ca/Documents/Chair%20in%20Network%20Automation/Executive%20Workshop/Workshop%201%20-%20November%202024/Workshop%201%20-%20Introduction.pptx?d=w6dd05bacc65c4ed88b4b41126f4bfdc5&csf=1&web=1&e=ZXirvb) |
-| 10:00 AM - 11:00 AM | Deploying and Managing 5G Core Network          | - [Environment Setup](https://niloysh.github.io/testbed-automator/slides.pdf) <br> - [Core Deployment](https://niloysh.github.io/open5gs-k8s/slides.pdf)                                                                                                                             |
-| 11:00 AM - 11:15 AM | Coffee Break                                    |                                                                                                                                                                                                                                                                                      |
-| 11:15 AM - 12:00 PM | Deploying and Managing 5G Core Network (cont'd) | [Exercises](https://niloysh.github.io/open5gs-k8s/labs/lab1/README.pdf)                                                                                                                                                                                                              |
-| 12:00 PM - 1:30 PM  | Lunch Break                                     | Location: EC5 ([Map](https://maps.app.goo.gl/xcvsAFFkqKpyULCHA))                                                                                                                                                                                                                     |
-| 1:30 PM - 2:00 PM   | Demo Session                                    | Location: DC2554 ([Map](https://maps.app.goo.gl/TL3auogCjkvPy2J37))          <br> - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq)                                                       |
-| 2:00 PM - 3:00 PM   | Monitoring 5G Core Network                      | - [Slides](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf) <br> - [Session Overview](slice-monitoring.md)  <br> - [Companion Document](https://github.com/niloysh/5g-monarch)                      |
-| 3:00 PM - 3:15 PM   | Coffee Break                                    |                                                                                                                                                                                                                                                                                      |
-| 3:15 PM - 4:00 PM   | Monitoring 5G Core Network (cont'd)             | [Exercises](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md)                                                                                                                                                                                                            |
+<table border="0">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00 AM - 9:30 AM</td>
+      <td>Workshop Introduction</td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/n6saha_uwaterloo_ca/Documents/Chair%20in%20Network%20Automation/Executive%20Workshop/Workshop%201%20-%20November%202024/Workshop%201%20-%20Introduction.pptx?d=w6dd05bacc65c4ed88b4b41126f4bfdc5&csf=1&web=1&e=ZXirvb">Slides</a></td>
+    </tr>
+    <tr>
+      <td>9:30 AM - 11:00 AM</td>
+      <td>Deploying and Managing 5G Core Network</td>
+      <td><a href="https://niloysh.github.io/testbed-automator/slides.pdf">Getting Started</a><br><a href="https://niloysh.github.io/open5gs-k8s/slides.pdf">Core Deployment</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>11:15 AM - 12:00 PM</td>
+      <td>Deploying and Managing 5G Core Network (cont'd)</td>
+      <td><a href="https://niloysh.github.io/open5gs-k8s/labs/lab1/README.pdf">Lab Exercises</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
+    </tr>
+    <tr>
+      <td>1:30 PM - 2:00 PM</td>
+      <td>Demo Session (DC2554)</td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq">Slides</a></td>
+    </tr>
+    <tr>
+      <td>2:00 PM - 3:00 PM</td>
+      <td>Monitoring 5G Core Network with Monarch</td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf">Slides</a><br><a href="https://github.com/niloysh/5g-monarch">Monarch</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>3:15 PM - 4:00 PM</td>
+      <td>Monitoring 5G Core Network (cont'd)</td>
+      <td><a href="https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md">Lab Exercises</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Day 2 (November 20th): Data Handling and Intelligent Algorithms
+
+<table border="0">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00 AM - 10:30 AM</td>
+      <td>Scalable Data Ingestion and Visualization</td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO">Slides</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>10:45 AM - 12:00 PM</td>
+      <td>Scalable Data Ingestion and Visualization (cont'd)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
+    </tr>
+    <tr>
+      <td>1:30 PM - 2:45 PM</td>
+      <td>Slice Modeling and Dynamic Resource Scaling</td>
+      <td>
+        <a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C">Slides</a><br>
+        <a href="https://github.com/sulaimanalmani/5GDynamicResourceAllocation">5G Dynamic Resource Allocation</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
+    </tr>
+    <tr>
+      <td>3:00 PM - 4:00 PM</td>
+      <td>Slice Modeling and Dynamic Resource Scaling (cont'd)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

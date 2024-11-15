@@ -26,5 +26,3 @@ We will monitor slices using the configured tools, observe performance metrics, 
 1. **Set Up Dashboards in Grafana**: Create custom dashboards for visualizing slice-specific metrics.
 2. **Real-Time Monitoring Exercises**:
     - Track number of subscribers, CPU usage for NFs.
-
-For exercises, see the [labs](https://github.com/niloysh/5g-monarch/blob/main/labs/lab1.md).

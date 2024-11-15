@@ -1,6 +1,3 @@
-theme: minimal
-plugins:
-  - jekyll-remote-theme
-
+theme: minima
 title: Rogers Executive Workshop
 description: Landing page for Rogers Executive Workshop

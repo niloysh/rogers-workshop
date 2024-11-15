@@ -8,10 +8,10 @@ For a brief overview of dynamic resource scaling, please see [intro-to-drs](intr
 
 ## Conclusion and Next Steps
 
-Congratulations! By completing the three notebooks, you should now have a solid understanding of how to use dataset gathered from 5G network can be used for network modeling and for 5G slice management and orchestration. 
+Congratulations! By completing the three notebooks, you should now have a solid understanding of how the dataset gathered from 5G network can be used for network modeling and for 5G slice management and orchestration. 
 
 ## Key Takeaways:
 
-- AI-based approaches can be effectively used for autonomous 5G network management and orchestration
-- You’ve learned how to train individual VNF models and compose them to form end-to-end slice models.
-- You’ve learned how to leverage the network model and use primal-dual optimization to perform dynamic resource scaling for network slices.
+- AI-based approaches can be effectively used for autonomous 5G network management and orchestration.
+- You have learned how to train individual VNF models and compose them to form end-to-end slice model.
+- You have learned how to leverage the network model and use primal-dual optimization to perform dynamic resource scaling for network slices.

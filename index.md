@@ -51,7 +51,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     <tr>
       <td>2:00 PM - 3:00 PM</td>
       <td>Monitoring 5G Core Network with Monarch</td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf">Slides</a><br><a href="https://github.com/niloysh/5g-monarch">Monarch</a></td>
+      <td><a href="https://niloysh.github.io/rogers-workshop/monitoring-introduction.pdf">Slides</a><br><a href="https://niloysh.github.io/5g-monarch/slides.pdf">Monarch</a></td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>

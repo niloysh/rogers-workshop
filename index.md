@@ -120,3 +120,6 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
 
 - 📚 [**Additional Resources**](https://niloysh.github.io/rogers-workshop/resources)  
   Access useful materials such as maps, cheat sheets, and a consolidated page with all essential links. 
+
+- 📝 [**Workshop Feedback**](https://docs.google.com/forms/d/e/1FAIpQLScVCXFpHOr5Wt5KGqkzUp6955PGdf-tO1XxLEtYgx7_8KOyZw/viewform?usp=sharing)  
+  Provide your feedback and help us improve future workshops.

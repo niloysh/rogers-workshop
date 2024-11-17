@@ -1,3 +1,9 @@
+---
+title: Learning Outcomes
+permalink: /outcomes
+layout: default
+---
+
 ## Day 1 (November 19th): 5G Core Network and Monitoring
 
 1.	Learn to deploy and configure a 5G core network on Kubernetes.

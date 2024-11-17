@@ -1,3 +1,9 @@
+---
+title: Workshop agenda
+permalink: /agenda
+layout: default
+---
+
 ## **Day 1 (November 19th): 5G Core Network and Monitoring**  
 
 ### **Morning Session**: Deploying and Managing 5G Core Network  

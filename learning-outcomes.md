@@ -3,6 +3,7 @@ title: Learning Outcomes
 permalink: /outcomes
 layout: default
 ---
+# Learning Outcomes
 
 ## Day 1 (November 19th): 5G Core Network and Monitoring
 

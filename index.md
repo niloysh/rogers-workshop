@@ -77,7 +77,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
   <tbody>
     <tr>
       <td>9:00 AM - 10:30 AM</td>
-      <td>Scalable Data Ingestion and Visualization</td>
+      <td>Scalable Data Ingestion, Processing, and Visualization</td>
       <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO">Slides</a><br><a href="https://hautonjt.github.io/pipeline.pdf">Data Pipeline Deployment</a></td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     </tr>
     <tr>
       <td>10:45 AM - 12:00 PM</td>
-      <td>Scalable Data Ingestion and Visualization (cont'd)</td>
+      <td>Scalable Data Ingestion, Processing, and Visualization (cont'd)</td>
       <td></td>
     </tr>
     <tr>

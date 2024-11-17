@@ -27,7 +27,7 @@ layout: default
 
 ## **Day 2 (November 20th): Data Handling and Intelligent Algorithms**  
 
-### **Morning Session**: Scalable Data Ingestion and Visualization  
+### **Morning Session**: Scalable Data Ingestion, Processing, and Visualization  
 ⏰ **Time**: 9:00 AM – 12:00 PM  
 - **Introduction to Data Processing Pipelines**  
   Understand the challenges of building and maintaining a data processing pipeline.  

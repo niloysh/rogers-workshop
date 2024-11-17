@@ -31,7 +31,7 @@ Access the slides for each session below.
 - **[Monitoring 5G Core Network with Monarch](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf)**  
   Overview of using Monarch for 5G core network monitoring and analysis.
 
-- **[Scalable Data Ingestion and Visualization](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO)**  
+- **[Scalable Data Ingestion, Processing, and Visualization](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO)**  
   Techniques and best practices for handling large-scale data ingestion and visualization in 5G networks.
 
 - **[Slice Modeling and Dynamic Resource Scaling](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C)**  

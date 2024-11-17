@@ -1,3 +1,10 @@
+---
+title: Tools and Technologies
+permalink: /technologies
+layout: default
+---
+
+
 # Key Tools and Technologies
 
 In order to build, manage, and simulate a 5G core network, several tools and technologies are used:

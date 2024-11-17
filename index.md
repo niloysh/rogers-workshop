@@ -109,3 +109,14 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     </tr>
   </tbody>
 </table>
+
+## Quick Links
+
+- 🎯 [**Learning Outcomes**](learning-outcomes.md)  
+  Discover the key takeaways and skills you will gain by participating in this workshop.  
+
+- 📅 [**Workshop Agenda**](agenda.md)  
+  Review the activities planned for the workshop. 
+
+- 📚 [**Additional Resources**](https://niloysh.github.io/rogers-workshop/resources)  
+  Access useful materials such as maps, cheat sheets, and a consolidated page with all essential links. 

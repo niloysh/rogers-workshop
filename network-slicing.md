@@ -1,4 +1,10 @@
-# **Network Slicing Overview**
+---
+title: Network Slicing Overview
+permalink: /network-slicing
+layout: default
+---
+
+# Network Slicing Overview
 
 In this workshop, we focus on network slicing within the 5G Core. Future workshops will cover slicing for the Radio Access Network (RAN) and transport segments.
 
@@ -20,20 +26,13 @@ In this workshop setup, each slice has a dedicated **Session Management Function
 > [!TIP]
 > For a brief background on the 5G core, see the [intro-to-5g-core](intro-to-5g-core.md) document.
 
-## Workshop Slicing Setups
+## Workshop Slicing Setup
 
-### Single PDU Session per Slice
-![Single PDU session](images/slice_deployment_01.png)  
+![slicing-setup](images/slicing-november-2024.png)
 *Figure: Two network slices with individual SMF and UPF for dedicated resources.*
 
-Each slice supports one **PDU session**, representing a logical user data connection. This structure enables tailored resource management for specific use cases.
-
-### Multiple PDU Sessions per Slice
-![Multiple PDU sessions](images/slice_deployment_02.png)  
-*Figure: Multiple PDU sessions within each slice for diverse data flows.*
-
-In this configuration, each slice handles multiple PDU sessions, allowing simultaneous data flows and custom traffic handling.
+Each slice supports one or more **PDU sessions**, representing a logical user data connection. This structure enables tailored resource management for specific use cases.
 
 
-### Real-World Use Case
-In a cloud gaming demo conducted at the University of Waterloo, we showcased how two PDU sessions support two clients (UEs) on a gaming slice. Using a resource scaling algorithm, we dynamically optimized bandwidth and latency, meeting the specific needs of each client efficiently.
+## Slicing Use Cases
+In a [previous demos](https://uwaterloo.ca/news/researching-cutting-edge-5g-network-slicing-technology) conducted at the University of Waterloo, we showcased how two PDU sessions support two clients (UEs) on a cloud gaming slice. Using a resource scaling algorithm, we dynamically optimized bandwidth and latency, meeting the specific needs of each client efficiently.

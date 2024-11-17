@@ -25,8 +25,6 @@ layout: default
 - **Hands-on with Monarch**  
   Acquire practical skills in querying and analyzing 5G network slice KPIs.  
 
----  
-
 ## **Day 2 (November 20th): Data Handling and Intelligent Algorithms**  
 
 ### **Morning Session**: Scalable Data Ingestion and Visualization  

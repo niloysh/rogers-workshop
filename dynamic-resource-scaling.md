@@ -1,3 +1,9 @@
+---
+title: Dynamic Resource Scaling
+permalink: /dynamic-resource-scaling
+layout: default
+---
+
 # Dynamic Resource Scaling using vNetRunner and MicroOpt
 
 ## Background Reading

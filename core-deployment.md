@@ -1,3 +1,9 @@
+---
+title: Core Deployment
+permalink: /core-deployment
+layout: default
+---
+
 # **Deploy 5G Core with Network Slicing**  
 
 Welcome to the session on 5G core deployment and network slicing. In this session, participants will set up a complete 5G network environment on Kuberenetes using automated scripts, with a special focus on deploying Open5GS and UERANSIM for core network and RAN simulation, respectively. By the end, you will have a functional 5G setup with configured network slices, providing hands-on experience with key 5G technologies.

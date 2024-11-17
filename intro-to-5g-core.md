@@ -1,3 +1,9 @@
+---
+title: Introduction to 5G core network
+permalink: /intro-to-5g-core
+layout: default
+---
+
 # Introduction to 5G core network
 
 The 5G Core (5GC) is the central component of the 5G network architecture, responsible for managing both control and user plane functions. Acting as the “brain” of the 5G system, it orchestrates the protocols, network interfaces, and services that enable seamless communication across diverse use cases and devices.

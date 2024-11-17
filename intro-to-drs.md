@@ -1,3 +1,9 @@
+---
+title: Introduction to Network Modeling and Dynamic Resource Scaling
+permalink: /intro-to-drs
+layout: default
+---
+
 # Introduction to Network Modeling and Dynamic Resource Scaling
 
 ## Motivation

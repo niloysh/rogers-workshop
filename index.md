@@ -95,7 +95,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
       <td>1:30 PM - 2:45 PM</td>
       <td>Slice Modeling and Dynamic Resource Scaling</td>
       <td>
-        <a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C">Slides</a><br>
+        <a href="https://niloysh.github.io/drs-session-introduction.pdf">Slides</a><br>
         <a href="https://sulaimanalmani.github.io/5GDynamicResourceAllocation/slides.pdf">5G Dynamic Resource Allocation</a>
       </td>
     </tr>

@@ -95,7 +95,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
       <td>1:30 PM - 2:45 PM</td>
       <td>Slice Modeling and Dynamic Resource Scaling</td>
       <td>
-        <a href="https://niloysh.github.io/rogers/workshop/drs-session-introduction.pdf">Slides</a><br>
+        <a href="https://niloysh.github.io/rogers-workshop/drs-session-introduction.pdf">Slides</a><br>
         <a href="https://sulaimanalmani.github.io/5GDynamicResourceAllocation/slides.pdf">5G Dynamic Resource Allocation</a>
       </td>
     </tr>

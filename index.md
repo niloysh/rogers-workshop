@@ -46,7 +46,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     <tr>
       <td>1:30 PM - 2:00 PM</td>
       <td>Demo Session (DC2554)</td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq">Slides</a></td>
+      <td><a href="https://niloysh.github.io/rogers-workshop/network-slicing-demo.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>2:00 PM - 3:00 PM</td>

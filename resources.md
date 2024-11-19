@@ -25,16 +25,19 @@ Access the slides for each session below.
 - **[Deploying and Managing 5G Core Network - Core Deployment](https://niloysh.github.io/open5gs-k8s/slides.pdf)**  
   In-depth guide to setting up a 5G core network using Open5GS and Kubernetes.
 
-- **[Demo Session](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq)**  
-  Presentation slides for the demo session focusing on monitoring and dynamic resource scaling.
+- **[Demo Session](https://niloysh.github.io/rogers-workshop/network-slicing-demo.pdf)**  
+  Presentation slides for the demo session focusing on network slicing, monitoring, and dynamic resource scaling.
 
-- **[Monitoring 5G Core Network with Monarch](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EeysQgkYTAtIiXRsfu3hI0sB63caGOhvK1MWLSvfzVsIHw?e=Yn94Lf)**  
+- **[Monitoring 5G Core Network with Monarch]("https://niloysh.github.io/rogers-workshop/monitoring-introduction.pdf)**  
   Overview of using Monarch for 5G core network monitoring and analysis.
+
+- **[Monitoring 5G Core Network with Monarch - Hands-on](https://niloysh.github.io/5g-monarch/slides.pdf)**  
+  Hands-on with deploying Monarch, monitoring 5G and network slice KPIs, and working with Prometheus.
 
 - **[Scalable Data Ingestion, Processing, and Visualization](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO)**  
   Techniques and best practices for handling large-scale data ingestion and visualization in 5G networks.
 
-- **[Slice Modeling and Dynamic Resource Scaling](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EbCHISVoIG9DpRWlvCTeEakBL3S3s3A9IAMavYtXEGT9Qg?e=6Uv12C)**  
+- **[Slice Modeling and Dynamic Resource Scaling](https://niloysh.github.io/rogers-workshop/drs-session-introduction.pdf)**  
   Introduction to slice modeling and scaling resources dynamically based on network demands.
 
 ## Background Reading

@@ -16,7 +16,7 @@ layout: default
 ## Slides
 Access the slides for each session below.
 
-- **[Workshop Introduction](https://uofwaterloo-my.sharepoint.com/:p:/r/personal/n6saha_uwaterloo_ca/Documents/Chair%20in%20Network%20Automation/Executive%20Workshop/Workshop%201%20-%20November%202024/Workshop%201%20-%20Introduction.pptx?d=w6dd05bacc65c4ed88b4b41126f4bfdc5&csf=1&web=1&e=ZXirvb)**  
+- **[Workshop Introduction](https://niloysh.github.io/rogers-workshop/workshop-introduction.pdf)**  
   Overview of the workshop goals, agenda, and objectives.
 
 - **[Deploying and Managing 5G Core Network - Getting Started](https://niloysh.github.io/testbed-automator/slides.pdf)**  

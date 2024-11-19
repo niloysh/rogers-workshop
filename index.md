@@ -25,7 +25,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     <tr>
       <td>9:00 AM - 9:30 AM</td>
       <td>Workshop Introduction</td>
-      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/r/personal/n6saha_uwaterloo_ca/Documents/Chair%20in%20Network%20Automation/Executive%20Workshop/Workshop%201%20-%20November%202024/Workshop%201%20-%20Introduction.pptx?d=w6dd05bacc65c4ed88b4b41126f4bfdc5&csf=1&web=1&e=ZXirvb">Slides</a></td>
+      <td><a href="https://niloysh.github.io/rogers-workshop/workshop-introduction.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>9:30 AM - 11:00 AM</td>

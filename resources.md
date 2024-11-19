@@ -28,7 +28,7 @@ Access the slides for each session below.
 - **[Demo Session](https://niloysh.github.io/rogers-workshop/network-slicing-demo.pdf)**  
   Presentation slides for the demo session focusing on network slicing, monitoring, and dynamic resource scaling.
 
-- **[Monitoring 5G Core Network with Monarch]("https://niloysh.github.io/rogers-workshop/monitoring-introduction.pdf)**  
+- **[Monitoring 5G Core Network with Monarch](https://niloysh.github.io/rogers-workshop/monitoring-introduction.pdf)**  
   Overview of using Monarch for 5G core network monitoring and analysis.
 
 - **[Monitoring 5G Core Network with Monarch - Hands-on](https://niloysh.github.io/5g-monarch/slides.pdf)**  

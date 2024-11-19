@@ -34,7 +34,7 @@ Access the slides for each session below.
 - **[Monitoring 5G Core Network with Monarch - Hands-on](https://niloysh.github.io/5g-monarch/slides.pdf)**  
   Hands-on with deploying Monarch, monitoring 5G and network slice KPIs, and working with Prometheus.
 
-- **[Scalable Data Ingestion, Processing, and Visualization](https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/Ec-IgYDYxoNPqzz_B6I_BSMBg88t2JdNEBmCWpq_9OIckw?e=NYDzTO)**  
+- **[Scalable Data Ingestion, Processing, and Visualization](https://niloysh.github.io/rogers-workshop/data-pipeline-introduction.pdf)**  
   Techniques and best practices for handling large-scale data ingestion and visualization in 5G networks.
 
 - **[Slice Modeling and Dynamic Resource Scaling](https://niloysh.github.io/rogers-workshop/drs-session-introduction.pdf)**  

@@ -29,10 +29,13 @@ layout: default
 
 ### **Morning Session**: Scalable Data Ingestion, Processing, and Visualization  
 ⏰ **Time**: 9:00 AM – 12:00 PM  
-- **Introduction to Data Processing Pipelines**  
+- **[Introduction to Data Processing Pipelines](https://niloysh.github.io/rogers-workshop/data-pipeline-introduction.pdf)**  
   Understand the challenges of building and maintaining a data processing pipeline.  
-- **Hands-on with Data Processing Pipeline**  
+- **[Hands-on with Data Processing Pipeline](https://hautonjt.github.io/pipeline.pdf)**  
   Learn to deploy a highly-available data processing pipeline and ingest data into OpenSearch using technologies such as Beats, NiFi, and Kafka.  
+- **[Data Pipeline Configuration](https://hautonjt.github.io/pipeline2.pdf)**  
+  Learn to configure NiFi and OpenSearch.
+  
 
 ### **Lunch Break**  
 ⏰ **Time**: 12:00 PM – 1:30 PM  

@@ -86,7 +86,7 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
     <tr>
       <td>10:45 AM - 12:00 PM</td>
       <td>Scalable Data Ingestion, Processing, and Visualization (cont'd)</td>
-      <td></td>
+      <td><a href="https://hautonjt.github.io/pipeline2.pdf">Data Pipeline Configuration</a></td>
     </tr>
     <tr>
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>

@@ -5,13 +5,15 @@ layout: default
 ---
 # Rogers Executive Workshop
 
-Welcome to the first Rogers Executive Workshop, presented as part of the Rogers Chair in Network Automation.
+Welcome to the second iteration of Workshop 1 in the Rogers Executive Workshop Series, presented as part of the Rogers Chair in Network Automation.
 
-This two-day workshop, held on November 19th and 20th, will explore essential aspects of 5G technology, including 5G core deployment, network slicing, slice monitoring and data processing, and dynamic resource scaling.
+Building on the success of our inaugural session in November 2024, this two-day workshop, held on February 25th and 26th, 2025, will cover key aspects of 5G technology, including 5G core deployment, network slicing, slice monitoring and data processing, and dynamic resource scaling.
+
+This workshop is part of a larger series, with upcoming sessions focusing on RAN (Workshop 2) and transport networks (Workshop 3).
 
 ## Workshop Schedule
 
-### Day 1 (November 19th): 5G Core Network and Monitoring
+### Day 1 (February 25th): 5G Core Network and Monitoring
 
 <table border="0">
   <thead>
@@ -44,12 +46,12 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Lunch Break</strong></td>
     </tr>
     <tr>
-      <td>1:30 PM - 2:00 PM</td>
+      <!-- <td>1:30 PM - 2:00 PM</td>
       <td>Demo Session (DC2554)</td>
-      <td><a href="https://niloysh.github.io/rogers-workshop/network-slicing-demo.pdf">Slides</a></td>
+      <td><a href="https://uofwaterloo-my.sharepoint.com/:p:/g/personal/n6saha_uwaterloo_ca/EXLDGhP2xdJFsUn9KRY_iMQBHPGl2FM--HnNeoniELuCkw?e=LuI9Xq">Slides</a></td> -->
     </tr>
     <tr>
-      <td>2:00 PM - 3:00 PM</td>
+      <td>1:30 PM - 2:45 PM</td>
       <td>Monitoring 5G Core Network with Monarch</td>
       <td><a href="https://niloysh.github.io/rogers-workshop/monitoring-introduction.pdf">Slides</a><br><a href="https://niloysh.github.io/5g-monarch/slides.pdf">Monarch</a></td>
     </tr>
@@ -57,14 +59,14 @@ This two-day workshop, held on November 19th and 20th, will explore essential as
       <td colspan="3" style="text-align:center; background-color:#f2f2f2;"><strong>Coffee Break</strong></td>
     </tr>
     <tr>
-      <td>3:15 PM - 4:00 PM</td>
+      <td>3:00 PM - 4:00 PM</td>
       <td>Monitoring 5G Core Network (cont'd)</td>
       <td><a href="https://niloysh.github.io/5g-monarch/labs/lab1/README.pdf">Lab Exercises</a></td>
     </tr>
   </tbody>
 </table>
 
-### Day 2 (November 20th): Data Handling and Intelligent Algorithms
+### Day 2 (February 26th): Data Handling and Intelligent Algorithms
 
 <table border="0">
   <thead>

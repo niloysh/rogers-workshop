@@ -27,7 +27,7 @@ This workshop is part of a larger series, with upcoming sessions focusing on RAN
     <tr>
       <td>9:00 AM - 9:30 AM</td>
       <td>Workshop Introduction</td>
-      <td><a href="https://niloysh.github.io/rogers-workshop/workshop-introduction.pdf">Slides</a></td>
+      <td><a href="https://niloysh.github.io/rogers-workshop/workshop-introduction-v6.pdf">Slides</a></td>
     </tr>
     <tr>
       <td>9:30 AM - 11:00 AM</td>
